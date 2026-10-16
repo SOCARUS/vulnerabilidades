@@ -1,0 +1,15 @@
+certifi
+charset-normalizer
+Events
+idna
+numpy
+opensearch-py
+pandas
+python-dateutil
+python-dotenv
+pytz
+requests
+six
+tzdata
+urllib3
+requests

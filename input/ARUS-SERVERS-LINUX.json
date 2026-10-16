@@ -1,0 +1,4280 @@
+{
+  "data": {
+    "affected_items": [
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopcmip08 |4.18.0-553.42.1.el8_10.x86_64 |#1 SMP Thu Feb 20 12:03:29 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:46+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-1",
+        "version": "Wazuh v4.12.0",
+        "id": "451",
+        "name": "vmdecopcmip08",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T17:37:48+00:00",
+        "ip": "10.0.0.206",
+        "manager": "vbogdtlwzip01",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtdansl01 |4.18.0-553.47.1.el8_10.x86_64 |#1 SMP Thu Apr 3 14:27:08 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "452",
+        "name": "vmdegtdansl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:10:53+00:00",
+        "ip": "10.54.74.22",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopcmip07 |4.18.0-553.42.1.el8_10.x86_64 |#1 SMP Thu Feb 20 12:03:29 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "453",
+        "name": "vmdecopcmip07",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:19:27+00:00",
+        "ip": "10.0.0.205",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtddatplp01 |4.18.0-553.37.1.el8_10.x86_64 |#1 SMP Thu Feb 6 14:36:24 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "454",
+        "name": "vmdegtddatplp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:36:27+00:00",
+        "ip": "10.54.64.18",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtddatrgp01 |4.18.0-553.37.1.el8_10.x86_64 |#1 SMP Thu Feb 6 14:36:24 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "455",
+        "name": "vmdegtddatrgp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:36:36+00:00",
+        "ip": "10.54.64.19",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtdactp01 |4.18.0-553.40.1.el8_10.x86_64 |#1 SMP Thu Feb 13 13:28:49 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "456",
+        "name": "vmdegtdactp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:36:40+00:00",
+        "ip": "10.54.64.11",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtddatsp02 |4.18.0-553.37.1.el8_10.x86_64 |#1 SMP Thu Feb 6 14:36:24 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "457",
+        "name": "vmdegtddatsp02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:36:50+00:00",
+        "ip": "10.54.64.15",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtddatsp01 |4.18.0-553.37.1.el8_10.x86_64 |#1 SMP Thu Feb 6 14:36:24 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:14+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "458",
+        "name": "vmdegtddatsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:36:58+00:00",
+        "ip": "10.54.64.14",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtddatsp03 |4.18.0-553.37.1.el8_10.x86_64 |#1 SMP Thu Feb 6 14:36:24 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "459",
+        "name": "vmdegtddatsp03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:37:02+00:00",
+        "ip": "10.54.64.16",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtddatsp04 |4.18.0-553.37.1.el8_10.x86_64 |#1 SMP Thu Feb 6 14:36:24 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "460",
+        "name": "vmdegtddatsp04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:37:10+00:00",
+        "ip": "10.54.64.17",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtddatmp02 |4.18.0-553.37.1.el8_10.x86_64 |#1 SMP Thu Feb 6 14:36:24 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:59+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "461",
+        "name": "vmdegtddatmp02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:37:51+00:00",
+        "ip": "10.54.64.13",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtddatmp01 |4.18.0-553.37.1.el8_10.x86_64 |#1 SMP Thu Feb 6 14:36:24 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "462",
+        "name": "vmdegtddatmp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:38:24+00:00",
+        "ip": "10.54.64.12",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Blue Onyx",
+          "major": "9",
+          "minor": "5",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtldwsol01 |5.14.0-503.23.1.el9_5.x86_64 |#1 SMP PREEMPT_DYNAMIC Thu Feb 6 12:22:10 UTC 2025 |x86_64",
+          "version": "9.5"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:59+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "463",
+        "name": "vbogdtldwsol01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:42:09+00:00",
+        "ip": "10.54.75.3",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtdmnp01 |4.18.0-553.47.1.el8_10.x86_64 |#1 SMP Thu Apr 3 14:27:08 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:11+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "464",
+        "name": "vmdegtdmnp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T21:49:58+00:00",
+        "ip": "10.54.64.10",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopdcmi04 |3.10.0-1160.80.1.el7.x86_64 |#1 SMP Tue Nov 8 15:48:59 UTC 2022 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "465",
+        "name": "vmdecopdcmi04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T22:36:05+00:00",
+        "ip": "10.0.0.115",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopdcmi02 |3.10.0-1160.105.1.el7.x86_64 |#1 SMP Thu Dec 7 15:39:45 UTC 2023 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:11+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "466",
+        "name": "vmdecopdcmi02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T22:37:05+00:00",
+        "ip": "10.0.0.123",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopdcmi05 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "467",
+        "name": "vmdecopdcmi05",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T22:38:21+00:00",
+        "ip": "10.0.0.144",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecophard01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:57+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "468",
+        "name": "vmdecophard01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T22:41:37+00:00",
+        "ip": "10.0.0.147",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopdcmi03 |3.10.0-1160.105.1.el7.x86_64 |#1 SMP Thu Dec 7 15:39:45 UTC 2023 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:11+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "469",
+        "name": "vmdecopdcmi03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T22:43:04+00:00",
+        "ip": "10.0.0.148",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "Oracle Linux Server",
+          "platform": "ol",
+          "uname": "Linux |vmdecopbdl01 |3.10.0-1160.119.1.0.5.el7.x86_64 |#1 SMP Sun Sep 29 20:38:00 PDT 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:59+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "470",
+        "name": "vmdecopbdl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T22:43:45+00:00",
+        "ip": "10.0.0.15",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogdtlprsp01 |3.10.0-1160.66.1.el7.x86_64 |#1 SMP Wed May 18 16:02:34 UTC 2022 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "471",
+        "name": "vbogdtlprsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T22:45:17+00:00",
+        "ip": "10.0.0.183",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogdtllvsl01 |3.10.0-1160.76.1.el7.x86_64 |#1 SMP Wed Aug 10 16:21:17 UTC 2022 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "472",
+        "name": "vbogdtllvsl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T22:52:59+00:00",
+        "ip": "10.0.0.127",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopdcmi01 |3.10.0-1160.105.1.el7.x86_64 |#1 SMP Thu Dec 7 15:39:45 UTC 2023 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:59+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "473",
+        "name": "vmdecopdcmi01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:02:14+00:00",
+        "ip": "10.0.0.192",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopcmip11 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "474",
+        "name": "vmdecopcmip11",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:10:31+00:00",
+        "ip": "10.0.0.214",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopoildd01 |3.10.0-1160.76.1.el7.x86_64 |#1 SMP Wed Aug 10 16:21:17 UTC 2022 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "475",
+        "name": "vmdecopoildd01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:10:47+00:00",
+        "ip": "10.0.0.215",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopcmip13 |4.18.0-553.42.1.el8_10.x86_64 |#1 SMP Thu Feb 20 12:03:29 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "476",
+        "name": "vmdecopcmip13",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:13:09+00:00",
+        "ip": "10.0.0.217",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopdtcd02 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "477",
+        "name": "vmdecopdtcd02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:13:39+00:00",
+        "ip": "10.0.0.220",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecoprmql01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:11+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "478",
+        "name": "vmdecoprmql01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:16:51+00:00",
+        "ip": "10.0.0.221",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopappl01 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:12+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "479",
+        "name": "vmdecopappl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:17:06+00:00",
+        "ip": "10.0.0.224",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "Oracle Linux Server",
+          "platform": "ol",
+          "uname": "Linux |vmdecopbdp03 |3.10.0-1160.119.1.0.5.el7.x86_64 |#1 SMP Sun Sep 29 20:38:00 PDT 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "480",
+        "name": "vmdecopbdp03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:19:25+00:00",
+        "ip": "10.0.0.21",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopesp03 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:11+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "481",
+        "name": "vmdecopesp03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:23:37+00:00",
+        "ip": "10.0.0.239",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecoprlp02 |3.10.0-1160.118.1.el7.x86_64 |#1 SMP Wed Apr 24 16:01:50 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "482",
+        "name": "vmdecoprlp02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:29:51+00:00",
+        "ip": "10.0.0.30",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogdtlvavl01 |3.10.0-1160.62.1.el7.x86_64 |#1 SMP Tue Apr 5 16:57:59 UTC 2022 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "483",
+        "name": "vbogdtlvavl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:30:14+00:00",
+        "ip": "10.0.0.38",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdegtdcmil02 |3.10.0-1160.81.1.el7.x86_64 |#1 SMP Fri Dec 16 17:29:43 UTC 2022 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "484",
+        "name": "vmdegtdcmil02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:30:47+00:00",
+        "ip": "10.0.0.50",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdegtdappafp01 |3.10.0-1160.88.1.el7.x86_64 |#1 SMP Tue Mar 7 15:41:52 UTC 2023 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "485",
+        "name": "vmdegtdappafp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:31:08+00:00",
+        "ip": "10.0.0.57",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopsqbp01 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "486",
+        "name": "vmdecopsqbp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:35:11+00:00",
+        "ip": "10.0.0.63",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopphl01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "487",
+        "name": "vmdecopphl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:40:04+00:00",
+        "ip": "10.0.0.97",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "6",
+          "minor": "10",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopgip02 |2.6.32-754.35.1.el6.x86_64 |#1 SMP Sat Nov 7 12:42:14 UTC 2020 |x86_64",
+          "version": "6.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "488",
+        "name": "vmdecopgip02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:41:08+00:00",
+        "ip": "10.0.0.80",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopcmip14 |4.18.0-553.47.1.el8_10.x86_64 |#1 SMP Thu Mar 20 10:01:53 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "489",
+        "name": "vmdecopcmip14",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:43:04+00:00",
+        "ip": "10.0.0.98",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopcmip03 |4.18.0-553.42.1.el8_10.x86_64 |#1 SMP Thu Feb 20 12:03:29 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:49+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-2",
+        "version": "Wazuh v4.12.0",
+        "id": "490",
+        "name": "vmdecopcmip03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:55:51+00:00",
+        "ip": "10.0.0.188",
+        "manager": "vbogdtlwzip02",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopcmip05 |4.18.0-553.42.1.el8_10.x86_64 |#1 SMP Thu Feb 20 12:03:29 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "491",
+        "name": "vmdecopcmip05",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:56:39+00:00",
+        "ip": "10.0.0.190",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopoil17 |3.10.0-1160.83.1.el7.x86_64 |#1 SMP Wed Jan 25 16:41:43 UTC 2023 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "492",
+        "name": "vmdecopoil17",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-13T23:59:05+00:00",
+        "ip": "10.0.1.179",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopesp05 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "493",
+        "name": "vmdecopesp05",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:00:56+00:00",
+        "ip": "10.0.1.182",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecoprlp04 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "494",
+        "name": "vmdecoprlp04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:02:37+00:00",
+        "ip": "10.0.1.208",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopcmip06 |4.18.0-553.42.1.el8_10.x86_64 |#1 SMP Thu Feb 20 12:03:29 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "495",
+        "name": "vmdecopcmip06",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:04:19+00:00",
+        "ip": "10.0.0.199",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "4",
+          "name": "Oracle Linux Server",
+          "platform": "ol",
+          "uname": "Linux |vbogdtldtpp01.da.arus.com.co |3.8.13-118.19.4.el7uek.x86_64 |#2 SMP Mon Aug 14 14:39:11 PDT 2017 |x86_64",
+          "version": "7.4"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "496",
+        "name": "vbogdtldtpp01.da.arus.com.co",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:04:32+00:00",
+        "ip": "10.0.1.249",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |eoitagip03 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:57+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "497",
+        "name": "eoitagip03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:12:03+00:00",
+        "ip": "10.0.1.38",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopkepl01 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "498",
+        "name": "vmdecopkepl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:12:58+00:00",
+        "ip": "10.0.1.43",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogdtlipal01.arus.local |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:12+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "499",
+        "name": "vbogdtlipal01.arus.local",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:13:12+00:00",
+        "ip": "10.0.0.234",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopshp02 |4.18.0-553.53.1.el8_10.x86_64 |#1 SMP Fri May 9 17:36:31 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "500",
+        "name": "vmdecopshp02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:21:00+00:00",
+        "ip": "10.0.22.31",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogdtlbicdp01 |4.18.0-553.50.1.el8_10.x86_64 |#1 SMP Thu Apr 10 16:09:41 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "501",
+        "name": "vbogdtlbicdp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:25:46+00:00",
+        "ip": "10.0.22.60",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogdtlbdp06 |3.10.0-1160.62.1.el7.x86_64 |#1 SMP Tue Apr 5 16:57:59 UTC 2022 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "502",
+        "name": "vbogdtlbdp06",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:32:03+00:00",
+        "ip": "10.0.0.6",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "Oracle Linux Server",
+          "platform": "ol",
+          "uname": "Linux |vbogdtlbdp01 |3.10.0-1160.119.1.0.5.el7.x86_64 |#1 SMP Sun Sep 29 20:38:00 PDT 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "503",
+        "name": "vbogdtlbdp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T00:53:00+00:00",
+        "ip": "10.0.0.163",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |it_cop |3.10.0-1160.102.1.el7.x86_64 |#1 SMP Tue Oct 17 15:42:21 UTC 2023 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "504",
+        "name": "it_cop",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T01:10:35+00:00",
+        "ip": "10.0.1.151",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |it_dtl |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "505",
+        "name": "it_dtl",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T01:11:08+00:00",
+        "ip": "10.0.1.157",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopesp04 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "506",
+        "name": "vmdecopesp04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T01:12:48+00:00",
+        "ip": "10.0.1.178",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "Oracle Linux Server",
+          "platform": "ol",
+          "uname": "Linux |oracleno11g |3.10.0-1160.119.1.0.5.el7.x86_64 |#1 SMP Sun Sep 29 20:38:00 PDT 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "507",
+        "name": "oracleno11g",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T01:13:50+00:00",
+        "ip": "10.0.1.18",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |appserverqas |4.18.0-553.64.1.el8_10.x86_64 |#1 SMP Wed Jul 23 16:42:14 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "508",
+        "name": "appserverqas",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T01:15:17+00:00",
+        "ip": "10.0.22.13",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopvul01 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "509",
+        "name": "vmdecopvul01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T01:22:42+00:00",
+        "ip": "10.0.1.77",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |appserverdll |4.18.0-553.51.1.el8_10.x86_64 |#1 SMP Fri Apr 25 00:55:37 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "510",
+        "name": "appserverdll",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T01:24:16+00:00",
+        "ip": "10.0.22.30",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |appserversbx |4.18.0-553.51.1.el8_10.x86_64 |#1 SMP Fri Apr 25 00:55:37 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "511",
+        "name": "appserversbx",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-14T01:24:39+00:00",
+        "ip": "10.0.22.32",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopgil02 |4.18.0-553.37.1.el8_10.x86_64 |#1 SMP Fri Jan 17 08:51:54 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "512",
+        "name": "vmdecopgil02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T16:45:30+00:00",
+        "ip": "10.0.0.104",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopgip01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "513",
+        "name": "vmdecopgip01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T16:51:36+00:00",
+        "ip": "10.0.0.108",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlrepro08 |4.18.0-553.63.1.el8_10.x86_64 |#1 SMP Thu Jul 24 11:45:38 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "514",
+        "name": "vbogdtlrepro08",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T19:26:50+00:00",
+        "ip": "10.54.67.10",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Blue Onyx",
+          "major": "9",
+          "minor": "6",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlrepro09 |5.14.0-570.18.1.el9_6.x86_64 |#1 SMP PREEMPT_DYNAMIC Fri May 30 18:43:28 UTC 2025 |x86_64",
+          "version": "9.6"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "515",
+        "name": "vbogdtlrepro09",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T19:37:03+00:00",
+        "ip": "10.54.67.11",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogdtlmdap01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "516",
+        "name": "vbogdtlmdap01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T19:59:38+00:00",
+        "ip": "10.0.0.184",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopcmip09 |4.18.0-553.42.1.el8_10.x86_64 |#1 SMP Thu Feb 20 12:03:29 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:01+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "518",
+        "name": "vmdecopcmip09",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T20:10:48+00:00",
+        "ip": "10.0.0.210",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopcmip10 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:01+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "519",
+        "name": "vmdecopcmip10",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T20:11:17+00:00",
+        "ip": "10.0.0.213",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopcmip12 |4.18.0-553.42.1.el8_10.x86_64 |#1 SMP Thu Feb 20 12:03:29 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-11T03:05:55+00:00",
+        "disconnection_time": "2025-09-11T03:05:59+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "520",
+        "name": "vmdecopcmip12",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 3,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T20:14:33+00:00",
+        "ip": "10.0.0.216",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopdtcd03 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "521",
+        "name": "vmdecopdtcd03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T20:16:36+00:00",
+        "ip": "10.0.0.229",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopnfsp01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "522",
+        "name": "vmdecopnfsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T20:17:36+00:00",
+        "ip": "10.0.0.230",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopdtc04 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "523",
+        "name": "vmdecopdtc04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T20:18:29+00:00",
+        "ip": "10.0.0.233",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopdtcrd03 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-03T23:38:31+00:00",
+        "disconnection_time": "2025-09-03T23:55:11+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "524",
+        "name": "vmdecopdtcrd03",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 4,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T20:20:51+00:00",
+        "ip": "10.0.0.235",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogdtlcdxp01 |4.18.0-553.50.1.el8_10.x86_64 |#1 SMP Thu Apr 10 16:09:41 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "525",
+        "name": "vbogdtlcdxp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T20:24:33+00:00",
+        "ip": "10.0.0.42",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopesp01 |3.10.0-1160.105.1.el7.x86_64 |#1 SMP Thu Dec 7 15:39:45 UTC 2023 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:12+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "526",
+        "name": "vmdecopesp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-15T20:26:28+00:00",
+        "ip": "10.0.0.64",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogdtlbdp04 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "527",
+        "name": "vbogdtlbdp04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:07:48+00:00",
+        "ip": "10.0.0.65",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopnmp01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-03T23:35:55+00:00",
+        "disconnection_time": "2025-09-03T23:55:11+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "528",
+        "name": "vmdecopnmp01",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 4,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:12:07+00:00",
+        "ip": "10.0.0.66",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdegtdpmsl01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "529",
+        "name": "vmdegtdpmsl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:14:32+00:00",
+        "ip": "10.0.0.78",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogdtldnsp01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:57+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "530",
+        "name": "vbogdtldnsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:16:14+00:00",
+        "ip": "10.0.1.10",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogdtlgdp01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:11+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "531",
+        "name": "vbogdtlgdp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:16:43+00:00",
+        "ip": "10.0.1.120",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdegtddtmkp01 |4.18.0-553.40.1.el8_10.x86_64 |#1 SMP Thu Feb 6 21:20:51 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-03T23:38:03+00:00",
+        "disconnection_time": "2025-09-03T23:55:11+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "532",
+        "name": "vmdegtddtmkp01",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 4,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:18:17+00:00",
+        "ip": "10.0.1.138",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdegtddtskp02 |4.18.0-553.40.1.el8_10.x86_64 |#1 SMP Thu Feb 6 21:20:51 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-08-25T12:59:55+00:00",
+        "disconnection_time": "2025-08-25T13:17:52+00:00",
+        "configSum": "ab73af41699f13fdd81903b5f23d8d00",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "533",
+        "name": "vmdegtddtskp02",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 4,
+        "mergedSum": "30c1a2c00b2f349921f91c860856018f",
+        "dateAdd": "2025-08-16T17:19:57+00:00",
+        "ip": "10.0.1.139",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdegtddtbdp01 |4.18.0-553.40.1.el8_10.x86_64 |#1 SMP Thu Feb 6 21:20:51 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "534",
+        "name": "vmdegtddtbdp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:21:40+00:00",
+        "ip": "10.0.1.142",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogdtlwsl06 |4.18.0-553.40.1.el8_10.x86_64 |#1 SMP Thu Feb 6 21:20:51 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "535",
+        "name": "vbogdtlwsl06",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:23:13+00:00",
+        "ip": "10.0.1.146",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopftp01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "536",
+        "name": "vmdecopftp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:24:28+00:00",
+        "ip": "10.0.1.197",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopgil04 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "537",
+        "name": "vmdecopgil04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:25:27+00:00",
+        "ip": "10.0.1.44",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopoil02 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:59+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "538",
+        "name": "vmdecopoil02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:27:49+00:00",
+        "ip": "10.0.1.57",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogdtlcdxp06 |4.18.0-553.52.1.el8_10.x86_64 |#1 SMP Mon May 5 10:03:48 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "539",
+        "name": "vbogdtlcdxp06",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:30:43+00:00",
+        "ip": "10.0.1.96",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogdtlshp01 |4.18.0-553.53.1.el8_10.x86_64 |#1 SMP Fri May 9 17:36:31 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-06T03:39:42+00:00",
+        "disconnection_time": "2025-09-06T03:39:52+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "540",
+        "name": "vbogdtlshp01",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 3,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:31:31+00:00",
+        "ip": "10.0.22.10",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdegtdatepsp02 |4.18.0-553.40.1.el8_10.x86_64 |#1 SMP Thu Feb 6 21:20:51 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-08-28T20:46:47+00:00",
+        "disconnection_time": "2025-08-28T20:46:47+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "541",
+        "name": "vmdegtdatepsp02",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 3,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:33:37+00:00",
+        "ip": "10.0.22.22",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdegtdvtlp01 |4.18.0-553.40.1.el8_10.x86_64 |#1 SMP Thu Feb 6 21:20:51 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:56+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "542",
+        "name": "vmdegtdvtlp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:48:26+00:00",
+        "ip": "10.25.64.20",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |node3 |4.18.0-553.40.1.el8_10.x86_64 |#1 SMP Thu Feb 6 21:20:51 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "543",
+        "name": "node3",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:48:34+00:00",
+        "ip": "10.25.64.13",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogdtlapp01 |4.18.0-553.53.1.el8_10.x86_64 |#1 SMP Fri May 9 17:36:31 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-06T03:39:49+00:00",
+        "disconnection_time": "2025-09-06T03:39:54+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "544",
+        "name": "vbogdtlapp01",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 3,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:51:35+00:00",
+        "ip": "10.0.22.12",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogdtlshl02 |4.18.0-553.53.1.el8_10.x86_64 |#1 SMP Fri May 9 17:36:31 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "545",
+        "name": "vbogdtlshl02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T17:52:18+00:00",
+        "ip": "10.0.22.15",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogdtlshl01 |4.18.0-553.53.1.el8_10.x86_64 |#1 SMP Fri May 9 17:36:31 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "546",
+        "name": "vbogdtlshl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T18:06:04+00:00",
+        "ip": "10.0.22.16",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlbdp08 |4.18.0-553.47.1.el8_10.x86_64 |#1 SMP Thu Apr 3 14:27:08 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "547",
+        "name": "vbogdtlbdp08",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T18:15:36+00:00",
+        "ip": "10.54.65.13",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Blue Onyx",
+          "major": "9",
+          "minor": "5",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlprmp01 |5.14.0-503.26.1.el9_5.x86_64 |#1 SMP PREEMPT_DYNAMIC Wed Feb 19 16:28:19 UTC 2025 |x86_64",
+          "version": "9.5"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "548",
+        "name": "vbogdtlprmp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T18:17:31+00:00",
+        "ip": "10.54.65.3",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdecopshc01 |4.18.0-553.53.1.el8_10.x86_64 |#1 SMP Fri May 9 17:36:31 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "549",
+        "name": "vmdecopshc01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T18:18:23+00:00",
+        "ip": "10.0.22.17",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdegtdatepsp04 |4.18.0-553.40.1.el8_10.x86_64 |#1 SMP Thu Feb 6 21:20:51 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "550",
+        "name": "vmdegtdatepsp04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T18:19:47+00:00",
+        "ip": "10.0.22.24",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdegtdrmqp01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "551",
+        "name": "vmdegtdrmqp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T18:21:45+00:00",
+        "ip": "10.0.0.198",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogdtlbipdn01 |4.18.0-553.51.1.el8_10.x86_64 |#1 SMP Fri Apr 25 00:55:37 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "552",
+        "name": "vbogdtlbipdn01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T18:49:29+00:00",
+        "ip": "10.0.22.58",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogdtlvgl01 |4.18.0-553.46.1.el8_10.x86_64 |#1 SMP Sat Mar 15 01:37:33 EDT 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "553",
+        "name": "vbogdtlvgl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T18:55:53+00:00",
+        "ip": "10.54.67.2",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopdnp04 |3.10.0-1160.118.1.el7.x86_64 |#1 SMP Wed Apr 24 16:01:50 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "554",
+        "name": "vmdecopdnp04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T18:58:40+00:00",
+        "ip": "172.26.0.103",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdeadmrlp01 |3.10.0-1160.118.1.el7.x86_64 |#1 SMP Wed Apr 24 16:01:50 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "555",
+        "name": "vmdeadmrlp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T18:59:48+00:00",
+        "ip": "172.26.53.29",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopwal01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "556",
+        "name": "vmdecopwal01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T19:01:09+00:00",
+        "ip": "172.26.53.57",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdecopwap03 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:57+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "557",
+        "name": "vmdecopwap03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T19:02:39+00:00",
+        "ip": "172.26.53.58",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdecoptmp01 |4.18.0-553.51.1.el8_10.x86_64 |#1 SMP Wed Apr 30 20:24:04 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "558",
+        "name": "vmdecoptmp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T19:05:24+00:00",
+        "ip": "10.0.1.254",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "10",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vmdegtdbukl01 |4.18.0-553.40.1.el8_10.x86_64 |#1 SMP Thu Feb 6 21:20:51 EST 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-08-24T02:45:58+00:00",
+        "disconnection_time": "2025-08-24T02:46:05+00:00",
+        "configSum": "ab73af41699f13fdd81903b5f23d8d00",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "559",
+        "name": "vmdegtdbukl01",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 3,
+        "mergedSum": "30c1a2c00b2f349921f91c860856018f",
+        "dateAdd": "2025-08-16T19:15:38+00:00",
+        "ip": "10.54.66.2",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Blue Onyx",
+          "major": "9",
+          "minor": "6",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlcrtl01 |5.14.0-570.18.1.el9_6.x86_64 |#1 SMP PREEMPT_DYNAMIC Fri May 30 18:43:28 UTC 2025 |x86_64",
+          "version": "9.6"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "560",
+        "name": "vbogdtlcrtl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T19:27:31+00:00",
+        "ip": "10.54.75.18",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogdtlprml01 |3.10.0-1160.119.1.el7.x86_64 |#1 SMP Tue Jun 4 14:43:51 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "561",
+        "name": "vbogdtlprml01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T19:29:11+00:00",
+        "ip": "10.54.75.2",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtdefip01 |4.18.0-553.47.1.el8_10.x86_64 |#1 SMP Thu Apr 3 14:27:08 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "562",
+        "name": "vmdegtdefip01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T19:36:56+00:00",
+        "ip": "10.54.64.24",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vmdegtdappafp02 |3.10.0-1160.108.1.el7.x86_64 |#1 SMP Thu Jan 25 16:17:31 UTC 2024 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "563",
+        "name": "vmdegtdappafp02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-16T19:42:22+00:00",
+        "ip": "10.0.0.59",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesp01 |4.18.0-553.8.1.el8_10.x86_64 |#1 SMP Tue Jul 2 17:10:26 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:57+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "564",
+        "name": "vbogevokesp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:35+00:00",
+        "ip": "172.30.5.231",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesl01 |4.18.0-553.51.1.el8_10.x86_64 |#1 SMP Wed Apr 30 20:24:04 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:59+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "565",
+        "name": "vbogevokesl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:36+00:00",
+        "ip": "172.30.5.202",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesp05 |4.18.0-553.8.1.el8_10.x86_64 |#1 SMP Tue Jul 2 17:10:26 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:56+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "566",
+        "name": "vbogevokesp05",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:38+00:00",
+        "ip": "172.30.5.235",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesl02 |4.18.0-553.51.1.el8_10.x86_64 |#1 SMP Wed Apr 30 20:24:04 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:57+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "567",
+        "name": "vbogevokesl02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:38+00:00",
+        "ip": "172.30.5.203",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlobsvp09 |4.18.0-553.22.1.el8_10.x86_64 |#1 SMP Wed Sep 25 09:20:43 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "568",
+        "name": "vbogdtlobsvp09",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:38+00:00",
+        "ip": "172.30.5.139",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlobsvp03 |4.18.0-553.22.1.el8_10.x86_64 |#1 SMP Wed Sep 25 09:20:43 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "569",
+        "name": "vbogdtlobsvp03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:42+00:00",
+        "ip": "172.30.5.133",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogmosk8mig03 |4.18.0-553.30.1.el8_10.x86_64 |#1 SMP Tue Nov 26 18:56:25 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "570",
+        "name": "vbogmosk8mig03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:42+00:00",
+        "ip": "172.30.5.213",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogmosk8sp01.mosaico.local |3.10.0-1160.62.1.el7.x86_64 |#1 SMP Tue Apr 5 16:57:59 UTC 2022 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "571",
+        "name": "vbogmosk8sp01.mosaico.local",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:44+00:00",
+        "ip": "172.30.5.3",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogmosk8mig02 |4.18.0-553.30.1.el8_10.x86_64 |#1 SMP Tue Nov 26 18:56:25 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "572",
+        "name": "vbogmosk8mig02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:44+00:00",
+        "ip": "172.30.5.212",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlobsvp01 |4.18.0-553.22.1.el8_10.x86_64 |#1 SMP Wed Sep 25 09:20:43 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "573",
+        "name": "vbogdtlobsvp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:45+00:00",
+        "ip": "172.30.5.131",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlobsvp05 |4.18.0-553.22.1.el8_10.x86_64 |#1 SMP Wed Sep 25 09:20:43 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "574",
+        "name": "vbogdtlobsvp05",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:45+00:00",
+        "ip": "172.30.5.135",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlobsvp06 |4.18.0-553.22.1.el8_10.x86_64 |#1 SMP Wed Sep 25 09:20:43 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "575",
+        "name": "vbogdtlobsvp06",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:50+00:00",
+        "ip": "172.30.5.136",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokemp01 |4.18.0-553.16.1.el8_10.x86_64 |#1 SMP Thu Aug 8 17:47:08 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:59+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "576",
+        "name": "vbogevokemp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:52+00:00",
+        "ip": "172.30.5.230",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlobsvp07 |4.18.0-553.22.1.el8_10.x86_64 |#1 SMP Wed Sep 25 09:20:43 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "577",
+        "name": "vbogdtlobsvp07",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:52+00:00",
+        "ip": "172.30.5.137",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlobsvp04 |4.18.0-553.22.1.el8_10.x86_64 |#1 SMP Wed Sep 25 09:20:43 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "578",
+        "name": "vbogdtlobsvp04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:54+00:00",
+        "ip": "172.30.5.134",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesl03 |4.18.0-553.51.1.el8_10.x86_64 |#1 SMP Wed Apr 30 20:24:04 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "579",
+        "name": "vbogevokesl03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:39:57+00:00",
+        "ip": "172.30.5.204",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogmosk8mig01 |4.18.0-553.30.1.el8_10.x86_64 |#1 SMP Tue Nov 26 18:56:25 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "580",
+        "name": "vbogmosk8mig01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:01+00:00",
+        "ip": "172.30.5.211",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlobsvp02 |4.18.0-553.22.1.el8_10.x86_64 |#1 SMP Wed Sep 25 09:20:43 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "581",
+        "name": "vbogdtlobsvp02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:02+00:00",
+        "ip": "172.30.5.132",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesp02 |4.18.0-553.8.1.el8_10.x86_64 |#1 SMP Tue Jul 2 17:10:26 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "582",
+        "name": "vbogevokesp02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:02+00:00",
+        "ip": "172.30.5.232",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesp06 |4.18.0-553.8.1.el8_10.x86_64 |#1 SMP Tue Jul 2 17:10:26 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "583",
+        "name": "vbogevokesp06",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:03+00:00",
+        "ip": "172.30.5.236",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Blue Onyx",
+          "major": "9",
+          "minor": "4",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogmosregp01 |5.14.0-427.20.1.el9_4.x86_64 |#1 SMP PREEMPT_DYNAMIC Fri Jun 7 14:51:39 UTC 2024 |x86_64",
+          "version": "9.4"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "584",
+        "name": "vbogmosregp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:06+00:00",
+        "ip": "172.30.5.248",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesp07 |4.18.0-553.8.1.el8_10.x86_64 |#1 SMP Tue Jul 2 17:10:26 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "585",
+        "name": "vbogevokesp07",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:10+00:00",
+        "ip": "172.30.5.237",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogdtlobsvp08 |4.18.0-553.22.1.el8_10.x86_64 |#1 SMP Wed Sep 25 09:20:43 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "586",
+        "name": "vbogdtlobsvp08",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:11+00:00",
+        "ip": "172.30.5.138",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokemp02 |4.18.0-553.8.1.el8_10.x86_64 |#1 SMP Tue Jul 2 17:10:26 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "587",
+        "name": "vbogevokemp02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:39+00:00",
+        "ip": "172.30.5.240",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevoprxp01 |4.18.0-553.5.1.el8_10.x86_64 |#1 SMP Thu Jun 6 09:41:19 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "588",
+        "name": "vbogevoprxp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:40+00:00",
+        "ip": "172.30.5.241",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevolfsp01 |4.18.0-553.5.1.el8_10.x86_64 |#1 SMP Thu Jun 6 09:41:19 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "589",
+        "name": "vbogevolfsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:41+00:00",
+        "ip": "172.30.5.199",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Blue Onyx",
+          "major": "9",
+          "minor": "4",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |collector |5.14.0-427.24.1.el9_4.x86_64 |#1 SMP PREEMPT_DYNAMIC Mon Jul 8 17:47:19 UTC 2024 |x86_64",
+          "version": "9.4"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "590",
+        "name": "collector",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:42+00:00",
+        "ip": "172.30.5.246",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Ootpa",
+          "major": "8",
+          "minor": "8",
+          "name": "Red Hat Enterprise Linux",
+          "platform": "rhel",
+          "uname": "Linux |vbogmosvbsp01 |4.18.0-477.15.1.el8_8.x86_64 |#1 SMP Fri Jun 2 08:27:19 EDT 2023 |x86_64",
+          "version": "8.8"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:01+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "591",
+        "name": "vbogmosvbsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:51+00:00",
+        "ip": "172.30.5.41",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesp08 |4.18.0-553.8.1.el8_10.x86_64 |#1 SMP Tue Jul 2 17:10:26 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "592",
+        "name": "vbogevokesp08",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:40:51+00:00",
+        "ip": "172.30.5.238",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesp03 |4.18.0-553.8.1.el8_10.x86_64 |#1 SMP Tue Jul 2 17:10:26 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:12+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "593",
+        "name": "vbogevokesp03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:41:00+00:00",
+        "ip": "172.30.5.233",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesl04 |4.18.0-553.51.1.el8_10.x86_64 |#1 SMP Wed Apr 30 20:24:04 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:56+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "594",
+        "name": "vbogevokesl04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:41:20+00:00",
+        "ip": "172.30.5.205",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesp04 |4.18.0-553.8.1.el8_10.x86_64 |#1 SMP Tue Jul 2 17:10:26 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "595",
+        "name": "vbogevokesp04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:41:22+00:00",
+        "ip": "172.30.5.234",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "major": "7",
+          "minor": "9",
+          "name": "CentOS Linux",
+          "platform": "centos",
+          "uname": "Linux |vbogmosmonp01.mosaico.local |3.10.0-1160.59.1.el7.x86_64 |#1 SMP Wed Feb 23 16:47:03 UTC 2022 |x86_64",
+          "version": "7.9"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "596",
+        "name": "vbogmosmonp01.mosaico.local",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:41:26+00:00",
+        "ip": "172.30.5.250",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokesp09 |4.18.0-553.8.1.el8_10.x86_64 |#1 SMP Tue Jul 2 17:10:26 UTC 2024 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "597",
+        "name": "vbogevokesp09",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:41:30+00:00",
+        "ip": "172.30.5.239",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vbogevokeml01 |4.18.0-553.51.1.el8_10.x86_64 |#1 SMP Wed Apr 30 20:24:04 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "598",
+        "name": "vbogevokeml01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-08-21T13:41:32+00:00",
+        "ip": "172.30.5.201",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Blue Onyx",
+          "major": "9",
+          "minor": "6",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtdpefi01 |5.14.0-570.33.2.el9_6.x86_64 |#1 SMP PREEMPT_DYNAMIC Fri Aug 15 17:42:51 UTC 2025 |x86_64",
+          "version": "9.6"
+        },
+        "lastKeepAlive": "2025-09-01T20:23:49+00:00",
+        "disconnection_time": "2025-09-01T20:38:00+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "603",
+        "name": "vmdegtdpefi01",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 4,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-09-01T20:21:56+00:00",
+        "ip": "10.0.1.129",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Blue Onyx",
+          "major": "9",
+          "minor": "6",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdgtddevmos01 |5.14.0-570.33.2.el9_6.x86_64 |#1 SMP PREEMPT_DYNAMIC Fri Aug 15 17:42:51 UTC 2025 |x86_64",
+          "version": "9.6"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "5ca91e64c61d3499a40366221e3273ba",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "604",
+        "name": "vmdgtddevmos01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-LINUX"
+        ],
+        "status_code": 0,
+        "mergedSum": "2635d576feff603b2f7bc56b7688cdaa",
+        "dateAdd": "2025-09-02T19:14:20+00:00",
+        "ip": "10.54.72.12",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      }
+    ],
+    "total_affected_items": 149,
+    "total_failed_items": 0,
+    "failed_items": []
+  },
+  "message": "All selected agents information was returned",
+  "error": 0
+}

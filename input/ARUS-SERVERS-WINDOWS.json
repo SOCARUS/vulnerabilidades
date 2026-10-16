@@ -1,0 +1,2410 @@
+{
+  "data": {
+    "affected_items": [
+      {
+        "os": {
+          "build": "20348.4171",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2022 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2022 Standard",
+          "version": "10.0.20348.4171"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:56+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "061",
+        "name": "vmdegtddcp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.160.0.180",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "20348.4171",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2022 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2022 Standard",
+          "version": "10.0.20348.4171"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:12+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "062",
+        "name": "vbogdtldcp03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.160.0.200",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "063",
+        "name": "vmdecopdcp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.220",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "064",
+        "name": "vbogdtldcp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.230",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:57+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "109",
+        "name": "vbogdtlsfcl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.0.146",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "110",
+        "name": "vmdegtdadsyn01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.0.238",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "111",
+        "name": "vmdegtdactvsd01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.223",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "112",
+        "name": "vmdecopdtfsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.148",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:56+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "113",
+        "name": "vmdegtdimpl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.58",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "114",
+        "name": "vmdecopsufsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.0.222",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "node_name": "unknown",
+        "id": "115",
+        "name": "fmdecopscp01",
+        "status": "never_connected",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "any",
+        "registerIP": "any",
+        "group_config_status": "not synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "116",
+        "name": "vmdecoprpspl1",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.15",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "117",
+        "name": "vmdegtdiisbip01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.205",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:11+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "118",
+        "name": "vmdecoppsp07",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.227",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "119",
+        "name": "vmdecopwssp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.242",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8246",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8246"
+        },
+        "lastKeepAlive": "2025-08-14T16:01:48+00:00",
+        "disconnection_time": "2025-08-14T16:16:23+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "120",
+        "name": "vbogdtlbksp01",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 4,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.31",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "121",
+        "name": "vmdecopibmlp1",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.54",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "122",
+        "name": "VMDECOPFTP02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.0.124",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "123",
+        "name": "vmdecopkcp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.80",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "124",
+        "name": "vmdecoptsp03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.1.16",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "125",
+        "name": "vmdecopcfinp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.0.226",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "126",
+        "name": "vmdegtdpcot01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "1970-01-01T00:00:00+00:00",
+        "ip": "10.0.0.246",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "381",
+        "name": "vmdecopfsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:21:33+00:00",
+        "ip": "10.0.0.26",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "382",
+        "name": "vbogdtlsqp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:21:49+00:00",
+        "ip": "10.0.1.150",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "383",
+        "name": "FMDECOPCGGP01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:21:49+00:00",
+        "ip": "10.0.3.128",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:59+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "384",
+        "name": "VMDECOPBDP20",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:21:51+00:00",
+        "ip": "10.0.1.203",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "385",
+        "name": "vbogdtlforticp1",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:21:55+00:00",
+        "ip": "10.0.0.133",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "386",
+        "name": "VBOGDTLWSUSP01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:21:57+00:00",
+        "ip": "10.0.1.90",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "387",
+        "name": "vbogdtletlal2p",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:21:58+00:00",
+        "ip": "10.0.1.201",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "388",
+        "name": "vmdecopecp03",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:21:59+00:00",
+        "ip": "10.0.1.222",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "389",
+        "name": "vbogdtlfsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:00+00:00",
+        "ip": "10.0.1.13",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "390",
+        "name": "vmdecopbtlp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:01+00:00",
+        "ip": "10.0.1.14",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "391",
+        "name": "vmdegtdniappl02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:01+00:00",
+        "ip": "10.0.1.253",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "392",
+        "name": "vmdegtdrpafml1",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:02+00:00",
+        "ip": "10.0.1.39",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "393",
+        "name": "vmdegtdarchi01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:03+00:00",
+        "ip": "10.0.1.109",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "394",
+        "name": "vmdecoprpap02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:03+00:00",
+        "ip": "10.0.1.144",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "395",
+        "name": "vmdecopsynp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:03+00:00",
+        "ip": "10.0.1.61",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:57+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "396",
+        "name": "vmdecopsrp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:04+00:00",
+        "ip": "10.0.1.159",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "397",
+        "name": "vmdecoprpap08",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:04+00:00",
+        "ip": "10.0.1.154",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:01+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "398",
+        "name": "vmdegtdniappl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:05+00:00",
+        "ip": "10.0.1.252",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "399",
+        "name": "vbogdtletlp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:05+00:00",
+        "ip": "10.0.1.202",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "400",
+        "name": "vmdegtdorqs01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:05+00:00",
+        "ip": "10.0.1.56",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8246",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8246"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "401",
+        "name": "vmdegtddfsd01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:10+00:00",
+        "ip": "10.0.1.2",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "20348.4052",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2022 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2022 Standard",
+          "version": "10.0.20348.4052"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:11+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "402",
+        "name": "vmdegtdforticp2",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:12+00:00",
+        "ip": "10.0.0.160",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:58+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "403",
+        "name": "vmdecoprpap11",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:15+00:00",
+        "ip": "10.0.1.99",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:00+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.12.0",
+        "id": "404",
+        "name": "vbogdtladcp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-11T19:22:15+00:00",
+        "ip": "10.0.0.14",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "406",
+        "name": "vmdecopecp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T14:00:06+00:00",
+        "ip": "10.0.1.119",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8246",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8246"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "407",
+        "name": "VMDEGTDDFSCLD01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T14:10:01+00:00",
+        "ip": "10.0.1.3",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "408",
+        "name": "vbogdtlgtap01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T14:15:03+00:00",
+        "ip": "10.0.1.40",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "411",
+        "name": "vmdegtddcp02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T14:35:18+00:00",
+        "ip": "10.0.1.9",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "17763.7434",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2019 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2019 Standard",
+          "version": "10.0.17763.7434"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:56+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "414",
+        "name": "vbogdtlbck01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:50:54+00:00",
+        "ip": "10.23.200.18",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "17763.7678",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2019 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2019 Standard",
+          "version": "10.0.17763.7678"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "415",
+        "name": "vbogdtlappfls01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:51:51+00:00",
+        "ip": "10.160.0.107",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "17763.7678",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2019 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2019 Standard",
+          "version": "10.0.17763.7678"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "416",
+        "name": "vbogdtllogbdp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:52:32+00:00",
+        "ip": "10.160.0.106",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "417",
+        "name": "vbogdtlbpmcp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:53:15+00:00",
+        "ip": "10.20.100.10",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "418",
+        "name": "vbogdtlbpmcp02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:53:20+00:00",
+        "ip": "10.20.100.11",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:08+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "419",
+        "name": "vbogdtlctrlab01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:53:37+00:00",
+        "ip": "10.54.65.2",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "17763.7678",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2019 Datacenter",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2019 Datacenter",
+          "version": "10.0.17763.7678"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "420",
+        "name": "cawsprtgp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:53:45+00:00",
+        "ip": "10.19.33.253",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:01+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "421",
+        "name": "vbogdtldcml01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:53:56+00:00",
+        "ip": "10.54.75.11",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "422",
+        "name": "vbogdtlbpmcl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:54:10+00:00",
+        "ip": "10.20.100.12",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8246",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8246"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "423",
+        "name": "vbogdtlliml01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:54:36+00:00",
+        "ip": "10.54.75.4",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8246",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8246"
+        },
+        "lastKeepAlive": "2025-08-14T16:02:09+00:00",
+        "disconnection_time": "2025-08-14T16:16:23+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "424",
+        "name": "vbogdtlkvml01",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 4,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:54:40+00:00",
+        "ip": "10.54.75.13",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "425",
+        "name": "vmdegtdkvml01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T18:56:39+00:00",
+        "ip": "10.54.74.13",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "17763.7792",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2019 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2019 Standard",
+          "version": "10.0.17763.7792"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "426",
+        "name": "vmdegtdbck02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:04:35+00:00",
+        "ip": "10.23.200.3",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "17763.7678",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2019 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2019 Standard",
+          "version": "10.0.17763.7678"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "427",
+        "name": "vmdegtdbck01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:05:07+00:00",
+        "ip": "10.23.200.2",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "428",
+        "name": "vmdecopcacp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:08:47+00:00",
+        "ip": "172.26.53.246",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:14+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "429",
+        "name": "vmdecopfsp04",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:08:58+00:00",
+        "ip": "172.26.53.86",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:01+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "430",
+        "name": "vmdecopgaup01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:09:00+00:00",
+        "ip": "172.26.53.90",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:14+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "431",
+        "name": "vmdegtdwsp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:09:10+00:00",
+        "ip": "172.26.0.14",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:57:57+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "432",
+        "name": "vmdecoprpacip01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:09:15+00:00",
+        "ip": "172.26.53.71",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "433",
+        "name": "vmdecoprpap07",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:09:33+00:00",
+        "ip": "172.26.53.150",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:04+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "434",
+        "name": "vmdecoppgwp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:09:33+00:00",
+        "ip": "172.26.53.202",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8246",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8246"
+        },
+        "lastKeepAlive": "2025-08-21T14:26:47+00:00",
+        "disconnection_time": "2025-08-21T14:43:42+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "435",
+        "name": "vmdecopausp01",
+        "status": "disconnected",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 4,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:09:39+00:00",
+        "ip": "172.26.53.64",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:13+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "436",
+        "name": "vmdecopniappl01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:09:39+00:00",
+        "ip": "172.26.53.80",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "437",
+        "name": "vbogdtletp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:09:49+00:00",
+        "ip": "172.26.53.79",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "438",
+        "name": "vbogdtlmtap01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:09:50+00:00",
+        "ip": "172.26.53.200",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:10+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "439",
+        "name": "vbogdtlbdp10",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:09:56+00:00",
+        "ip": "172.26.53.147",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "440",
+        "name": "vbogdtlsfcp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:10:01+00:00",
+        "ip": "172.26.53.97",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:09+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "441",
+        "name": "SSAP00001PBBI",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:10:13+00:00",
+        "ip": "172.26.0.67",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:03+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "442",
+        "name": "vbogdtlmtal01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:10:14+00:00",
+        "ip": "172.26.53.199",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:05+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "443",
+        "name": "vbogdtlbdl02",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:10:27+00:00",
+        "ip": "172.26.53.10",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8330",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8330"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "444",
+        "name": "vbogdtlglp01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T19:10:28+00:00",
+        "ip": "172.26.53.203",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "20348.4052",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2022 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2022 Standard",
+          "version": "10.0.20348.4052"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:01+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "446",
+        "name": "VAPCSVEBATROP",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T22:00:19+00:00",
+        "ip": "10.0.1.88",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "14393.8422",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2016 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2016 Standard",
+          "version": "10.0.14393.8422"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:02+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-3",
+        "version": "Wazuh v4.11.0",
+        "id": "447",
+        "name": "vmdecopautid01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T22:00:24+00:00",
+        "ip": "172.26.53.151",
+        "manager": "vbogdtlplog03",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "build": "20348.4052",
+          "major": "10",
+          "minor": "0",
+          "name": "Microsoft Windows Server 2022 Standard",
+          "platform": "windows",
+          "uname": "Microsoft Windows Server 2022 Standard",
+          "version": "10.0.20348.4052"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:07+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.11.0",
+        "id": "448",
+        "name": "VDBCSVEBDTROP",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-12T22:00:24+00:00",
+        "ip": "10.0.1.89",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Blue Onyx",
+          "major": "9",
+          "minor": "6",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtdpappe01 |5.14.0-570.21.1.el9_6.x86_64 |#1 SMP PREEMPT_DYNAMIC Tue Jun 10 18:07:35 UTC 2025 |x86_64",
+          "version": "9.6"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:06+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "601",
+        "name": "vmdegtdpappe01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-29T20:56:44+00:00",
+        "ip": "10.54.72.11",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      },
+      {
+        "os": {
+          "arch": "x86_64",
+          "codename": "Green Obsidian",
+          "major": "8",
+          "minor": "10",
+          "name": "Rocky Linux",
+          "platform": "rocky",
+          "uname": "Linux |vmdegtdefid01 |4.18.0-553.47.1.el8_10.x86_64 |#1 SMP Thu Apr 3 14:27:08 UTC 2025 |x86_64",
+          "version": "8.10"
+        },
+        "lastKeepAlive": "2025-09-15T12:58:11+00:00",
+        "configSum": "d1081d4addce902ef30c1b862aa9b88c",
+        "node_name": "wazuh-4",
+        "version": "Wazuh v4.12.0",
+        "id": "602",
+        "name": "vmdegtdefid01",
+        "status": "active",
+        "group": [
+          "ARUS-SERVERS-WINDOWS"
+        ],
+        "status_code": 0,
+        "mergedSum": "88da7bd229a1dc495d9f278a8e735aec",
+        "dateAdd": "2025-08-29T20:58:05+00:00",
+        "ip": "10.54.72.10",
+        "manager": "vbogdtlplog4",
+        "registerIP": "any",
+        "group_config_status": "synced"
+      }
+    ],
+    "total_affected_items": 86,
+    "total_failed_items": 0,
+    "failed_items": []
+  },
+  "message": "All selected agents information was returned",
+  "error": 0
+}
